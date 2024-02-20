@@ -12,7 +12,7 @@ export class FaceSnapsService {
           description: 'Mon meilleur ami depuis tout petit !',
           imageUrl: 'https://www.jennifer-carre.com/angular/archibald.jpg',
           createdDate: new Date(),
-          snaps: 0,
+          snaps: 51,
           location: 'Ma maison d\'enfance'
         },
         {
@@ -21,7 +21,7 @@ export class FaceSnapsService {
           description: 'Un endroit magnifique pour les randonnées',
           imageUrl: 'https://www.jennifer-carre.com/angular/three-rock-mountain.jpg',
           createdDate: new Date(),
-          snaps: 0
+          snaps: 5
         },
         {
           id: 3,
@@ -29,7 +29,7 @@ export class FaceSnapsService {
           description: 'Mmmh que c\'est bon !',
           imageUrl: 'https://www.jennifer-carre.com/angular/un-bon-repas.jpg',
           createdDate: new Date(),
-          snaps: 0,
+          snaps: 25,
           location: 'Restaurant Le numéro 3 à Bédarrides'
         },
         {
@@ -46,7 +46,7 @@ export class FaceSnapsService {
           description: 'Une randonnée avec une vue exceptionnelle',
           imageUrl: 'https://www.jennifer-carre.com/angular/randonnee.jpg',
           createdDate: new Date(),
-          snaps: 0
+          snaps: 15
         }
       ];
 
